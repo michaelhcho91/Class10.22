@@ -9,3 +9,13 @@ body {
 h1 {
   font-size: 5rem;
 }
+
+.images-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+img {
+  max-width: 50vw;
+}
