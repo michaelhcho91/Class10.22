@@ -1,6 +1,7 @@
 body
 {
     background-color:lightpink;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 
     
     
@@ -11,6 +12,8 @@ body
 text-align: center;
 color: darkblue;
 font-size: 50px;
+image-align: center;     
+
 
 }
 .two
@@ -19,3 +22,9 @@ font-size: 50px;
     color: darkblue;
     font-size:50px;
 }
+
+.one-item img
+{
+    width: 800px;
+}
+    
