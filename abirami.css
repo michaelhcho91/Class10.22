@@ -1,30 +1,38 @@
-body
-{
-    background-color:lightpink;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
-
-    
-    
-
-}
-.one
-{
-text-align: center;
-color: darkblue;
-font-size: 50px;
-image-align: center;     
-
-
-}
-.two
-{
-    text-align: left;
-    color: darkblue;
-    font-size:50px;
+body {
+  background-color: lightpink;
+  font-family:
+    "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
-.one-item img
-{
-    width: 800px;
+.nav-bar {
+  font-size: 3rem;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: lightyellow;
+  width: 50vw;
+  padding: 25px;
 }
-    
+
+.nav-bar a {
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+}
+
+.one {
+  text-align: center;
+  color: darkblue;
+  font-size: 50px;
+  image-align: center;
+}
+.two {
+  text-align: left;
+  color: darkblue;
+  font-size: 50px;
+}
+
+.one-item img {
+  width: 800px;
+}
