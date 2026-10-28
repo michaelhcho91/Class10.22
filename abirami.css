@@ -25,7 +25,7 @@ body {
   text-align: center;
   color: darkblue;
   font-size: 50px;
-  image-align: center;
+  
 }
 .two {
   text-align: left;
@@ -43,4 +43,16 @@ body {
 
    
 
+}
+.text1{
+    text-align:center;
+    color:black;
+    font size: 58px;
+    font-style: bold;
+  padding :20px;
+  border: 5px dotted black; 
+
+}
+.text2{
+    text -align: right;
 }
